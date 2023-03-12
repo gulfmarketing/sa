@@ -1,27 +1,41 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "شركة نظافة بالمدينة",
+    "title": "دليل نقل العفش بالسعودية",
     "description": "",
     "home_page_url": "https://gulfmarketing.github.io/sa",
     "feed_url": "https://gulfmarketing.github.io/sa/feed.json",
     "user_comment": "",
     "author": {
-        "name": "محمد هلال"
+        "name": "تسويق الخليج"
     },
     "items": [
         {
-            "id": "https://gulfmarketing.github.io/sa/fdl-shrk-tnzyf-blmdyn.html",
-            "url": "https://gulfmarketing.github.io/sa/fdl-shrk-tnzyf-blmdyn.html",
-            "title": "افضل شركة تنظيف بالمدينة",
-            "summary": "افضل شركة تنظيف بالمدينة المنورة",
-            "content_html": "\n  <p>\n    افضل شركة تنظيف بالمدينة المنورة\n  </p>",
+            "id": "https://gulfmarketing.github.io/sa/shrk-nql-aafsh-bynbaa.html",
+            "url": "https://gulfmarketing.github.io/sa/shrk-nql-aafsh-bynbaa.html",
+            "title": "شركة نقل عفش بينبع",
+            "summary": "افضل شركة نقل عفش في ينبع",
+            "content_html": "<p>افضل شركة نقل عفش في ينبع</p>",
             "author": {
-                "name": "محمد هلال"
+                "name": "تسويق الخليج"
             },
             "tags": [
             ],
-            "date_published": "2023-03-12T20:30:16+02:00",
-            "date_modified": "2023-03-12T20:30:16+02:00"
+            "date_published": "٢٠٢٣-٠٣-١٢T١٨:٠٢:٠٧+٠٢:٠٠",
+            "date_modified": "٢٠٢٣-٠٣-١٢T١٨:٠٢:٠٧+٠٢:٠٠"
+        },
+        {
+            "id": "https://gulfmarketing.github.io/sa/medina.html",
+            "url": "https://gulfmarketing.github.io/sa/medina.html",
+            "title": "شركة نقل عفش بالمدينة المنورة",
+            "summary": "افضل خدمات نقل عفش بالمدينة المنورة",
+            "content_html": "<p>افضل خدمات نقل عفش بالمدينة المنورة</p>",
+            "author": {
+                "name": "تسويق الخليج"
+            },
+            "tags": [
+            ],
+            "date_published": "٢٠٢٢-٠٧-٢٠T٢١:٣٧:٢٣+٠٢:٠٠",
+            "date_modified": "٢٠٢٢-٠٧-٢٠T٢١:٣٨:٠٩+٠٢:٠٠"
         }
     ]
 }
