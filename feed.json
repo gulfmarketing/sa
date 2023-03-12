@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "شركة نظافة بالمدينة",
+    "description": "",
+    "home_page_url": "https://gulfmarketing.github.io/sa",
+    "feed_url": "https://gulfmarketing.github.io/sa/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "محمد هلال"
+    },
+    "items": [
+        {
+            "id": "https://gulfmarketing.github.io/sa/fdl-shrk-tnzyf-blmdyn.html",
+            "url": "https://gulfmarketing.github.io/sa/fdl-shrk-tnzyf-blmdyn.html",
+            "title": "افضل شركة تنظيف بالمدينة",
+            "summary": "افضل شركة تنظيف بالمدينة المنورة",
+            "content_html": "\n  <p>\n    افضل شركة تنظيف بالمدينة المنورة\n  </p>",
+            "author": {
+                "name": "محمد هلال"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-12T20:30:16+02:00",
+            "date_modified": "2023-03-12T20:30:16+02:00"
+        }
+    ]
+}

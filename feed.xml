@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>شركة نظافة بالمدينة</title>
+    <link href="https://gulfmarketing.github.io/sa/feed.xml" rel="self" />
+    <link href="https://gulfmarketing.github.io/sa" />
+    <updated>2023-03-12T20:30:16+02:00</updated>
+    <author>
+        <name>محمد هلال</name>
+    </author>
+    <id>https://gulfmarketing.github.io/sa</id>
+
+    <entry>
+        <title>افضل شركة تنظيف بالمدينة</title>
+        <author>
+            <name>محمد هلال</name>
+        </author>
+        <link href="https://gulfmarketing.github.io/sa/fdl-shrk-tnzyf-blmdyn.html"/>
+        <id>https://gulfmarketing.github.io/sa/fdl-shrk-tnzyf-blmdyn.html</id>
+
+        <updated>2023-03-12T20:30:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                    افضل شركة تنظيف بالمدينة المنورة
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    افضل شركة تنظيف بالمدينة المنورة
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

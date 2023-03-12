@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gulfmarketing.github.io/sa/sitemap.xml
